@@ -1,7 +1,12 @@
-{  
+{
   "name": "pipe2",
   "description": "Minimal router and client",
   "version": "0.0.1",
+  "node-red" : {
+    "nodes": {
+      "pipe1": "pipe2"
+    }
+  },
   "devDependencies": {
   }
 }
