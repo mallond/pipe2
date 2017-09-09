@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "node-red" : {
     "nodes": {
-      "pipe1": "pipe2"
+      "pipe2": "pipe2"
     }
   },
   "devDependencies": {
